@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.23b72b6c.css",
+    "main.js": "/myportfolio/static/js/main.81461b85.js",
+    "static/media/about.jpg": "/myportfolio/static/media/about.472264f3e71937c8ce12.jpg",
+    "static/media/profile.jpg": "/myportfolio/static/media/profile.d6133ddd0aa2e365a935.jpg",
+    "static/media/Ardinata-Cv.pdf": "/myportfolio/static/media/Ardinata-Cv.15fbbdc530f86db31d8e.pdf",
+    "static/media/work7.jpg": "/myportfolio/static/media/work7.ea9c6ad9f46fa5c4f2f6.jpg",
+    "static/media/work8.jpg": "/myportfolio/static/media/work8.c675fcd17c1a03b70237.jpg",
+    "static/media/work9.jpg": "/myportfolio/static/media/work9.bbf67afe9031cd81dde6.jpg",
+    "static/media/work6.jpg": "/myportfolio/static/media/work6.74765c460f0e364e5211.jpg",
+    "static/media/work2.jpg": "/myportfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/myportfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work1.jpg": "/myportfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/myportfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/myportfolio/index.html",
+    "main.23b72b6c.css.map": "/myportfolio/static/css/main.23b72b6c.css.map",
+    "main.81461b85.js.map": "/myportfolio/static/js/main.81461b85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b72b6c.css",
+    "static/js/main.81461b85.js"
+  ]
+}
